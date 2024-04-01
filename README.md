@@ -4,7 +4,7 @@
 I'm a senior engineer in a construction company who got into programming while adapting routine processes at work.
 
 ## My Journey into Development
-- 🚀 Actively learning backend development on [Hexlet](https://ru.hexlet.io/programs/rails)
+- 🚀 Completed a backend development course at [Hexlet](https://ru.hexlet.io/programs/rails)
 - 💻 Completed a frontend development course at [RS School](https://app.rs.school/certificate/pvfzfk4n)
 - 🎯 Goal: Become a full-stack developer and dive deeper into the world of development
 
