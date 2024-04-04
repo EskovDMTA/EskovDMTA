@@ -6,15 +6,22 @@ I'm a senior engineer in a construction company who got into programming while a
 ## My Journey into Development
 - 🎯 Goal: Become a full-stack developer and dive deeper into the world of development
 
+## Learning Resources
+- 📹 Video tutorials
+- 📚 Articles
+- 📖 Books
+- 🎓 Courses
+
 ## Skills
 - 💻 Programming in Ruby, JavaScript, TypeScript
-- 🌐 Working with web technologies: HTML, CSS
+- 🌐 Working with web technologies: HTML, CSS preprocessors, Webpack
 - 🗃️ Database: PostgreSQL
 - 🛤️ Framework: Ruby on Rails
 - 📊 Experience in process automation
+- 🔗 Version control with Git
+
 ## CodeWars Badge
-[![CodeWars](https://www.codewars.com/users/eskovdmt/badges/large
-)](https://www.codewars.com/users/eskovdmt)
+[![CodeWars](https://www.codewars.com/users/eskovdmt/badges/large)](https://www.codewars.com/users/eskovdmt)
 
 ## In My Free Time
 - ✈️ Traveling
@@ -23,4 +30,3 @@ I'm a senior engineer in a construction company who got into programming while a
 
 ## Connect with Me
 - Telegram: [@EDMTA](https://t.me/EDMTA)
-
