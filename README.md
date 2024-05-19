@@ -2,6 +2,7 @@
 
 ## About Me
 I'm a senior engineer in a construction company who got into programming while adapting routine processes at work.
+- I am currently working on a pet project called ['Office Games'](https://github.com/EskovDMTA/office-games)
 
 ## My Journey into Development
 - 🎯 Goal: Become a full-stack developer and dive deeper into the world of development
